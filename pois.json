@@ -1,0 +1,28 @@
+{
+    "pois": [
+      {
+        "name": "Parcul Herastrau",
+        "latitude": 44.476079, 
+        "longitude": 26.081227,
+        "address": "Bulevardul Aviatorilor Bucuresti,Romania",
+        "category": "Parc",
+        "rating": 4.5
+      },
+      {
+        "name": "AAAAArastrau",
+        "latitude": 89, 
+        "longitude": 89,
+        "address": "Bulevardul Aviatorilor Bucuresti,Romania",
+        "category": "Parc",
+        "rating": 4.5
+      },
+      {
+        "name": "Liceu",
+        "latitude": 44.42094774011066, 
+        "longitude": 26.061188236955555,
+        "address": "Bulevardul Aviatorilor Bucuresti,Romania",
+        "category": "Parc",
+        "rating": 4.5
+      }
+    ]
+}
